@@ -1,0 +1,54 @@
+.home{
+    background-color: whitesmoke;
+}
+
+#experts{
+    background-color: whitesmoke;
+}
+
+.fw-40{
+    font-size: 3rem;
+
+}
+
+.background{
+    background-image: url(images/4604942.jpg);
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: contain;
+    /* background-attachment: fixed; */
+}
+
+#house{
+    background-color: whitesmoke;
+}
+
+.house300{
+    background-image: url(images/579.jpg);
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+.font-size{
+    font-size: 2.5rem;
+}
+
+#bottom{
+    background-color: whitesmoke;
+    height: 300px;
+}
+
+.icons{
+    font-size: 2.5rem;
+    width: 100%;
+}
+
+.fs-20{
+    font-size: 2.5rem;
+}
+
+
